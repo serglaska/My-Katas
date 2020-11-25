@@ -4,6 +4,7 @@ import ReactDOM from "react-dom";
 import "./styles.css";
 
 function App() {
+  const hw = 'hello world';
   // function disemvowel(str) {
   //   let count = str.length;
   //   var arr = "";
